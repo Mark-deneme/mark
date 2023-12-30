@@ -16,3 +16,5 @@ new
 new branch-2
 
 for sinan
+
+add for stash
